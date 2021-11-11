@@ -6,7 +6,7 @@ author:
 date: "28/10/2021"
 output: 
   ioslides_presentation: 
-    logo: Imagens/Logo.png
+    logo: Images/Logo.png
     widescreen: true
   slidy_presentation:
     footer: "Copyright (c) 2014, RStudio"
@@ -544,3 +544,21 @@ _A venda dos estoques públicos é realizando quando há necessidade de interven
 
 **Beneficiários:** Cooperativas de Produtores Rurais nas atividades de beneficiamento ou industrialização, beneficiadores, agroindústrias, cerealistas, avicultores de corte e suinocultores independentes (não integrados).
 
+## Links úteis
+<center>
+#### Sistema IBGE de Recuperação Automática - SIDRA
+[Produção Agrícola Municipal](https://sidra.ibge.gov.br/Tabela/5457)
+
+#### Ministério da Agricultura, Pecuária e Abastecimento - MAPA
+[Comercialização e Abastecimento](https://www.gov.br/agricultura/pt-br/assuntos/politica-agricola/comercializacao-e-abastecimento)
+
+#### Companhia Nacional de Abastecimento - CONAB
+[Instrumentos de Política Agrícola](https://www.conab.gov.br/precos-minimos/instrumentos-de-politica-agricola)\
+[Portal de Informações Agropecuárias - Operações de Comercialização](https://portaldeinformacoes.conab.gov.br/operacoes-de-comercializacao.html)\
+[Transparência - Gestão dos Estoques Públicos](http://sisdep.conab.gov.br/transparencia_internet/)
+
+#### Baixar Apresentação
+<div class="centered">
+![](Images/github.png)<br>
+[*github.com/profmarcelojesus*](https://github.com/profmarcelojesus/pgpm)
+</div>
