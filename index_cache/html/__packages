@@ -1,0 +1,10 @@
+base
+tidyr
+dplyr
+readr
+foreach
+ggplot2
+knitr
+kableExtra
+DT
+stringr
