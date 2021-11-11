@@ -6,10 +6,12 @@ author:
 date: "28/10/2021"
 output: 
   ioslides_presentation: 
-    logo: Images/Logo.png
+    logo: Logo.png
     widescreen: true
   slidy_presentation:
     footer: "Copyright (c) 2014, RStudio"
+# knit: pagedown::chrome_print
+    
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
