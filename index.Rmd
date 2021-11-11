@@ -544,7 +544,7 @@ _A venda dos estoques públicos é realizando quando há necessidade de interven
 
 **Beneficiários:** Cooperativas de Produtores Rurais nas atividades de beneficiamento ou industrialização, beneficiadores, agroindústrias, cerealistas, avicultores de corte e suinocultores independentes (não integrados).
 
-## Links úteis
+## Links úteis {.smaller}
 <center>
 #### Sistema IBGE de Recuperação Automática - SIDRA
 [Produção Agrícola Municipal](https://sidra.ibge.gov.br/Tabela/5457)
@@ -556,6 +556,9 @@ _A venda dos estoques públicos é realizando quando há necessidade de interven
 [Instrumentos de Política Agrícola](https://www.conab.gov.br/precos-minimos/instrumentos-de-politica-agricola)\
 [Portal de Informações Agropecuárias - Operações de Comercialização](https://portaldeinformacoes.conab.gov.br/operacoes-de-comercializacao.html)\
 [Transparência - Gestão dos Estoques Públicos](http://sisdep.conab.gov.br/transparencia_internet/)
+
+#### Banco Central do Brasil
+[Relatório de Crédito Rural Contratações - Quantidade e Valor dos Contratos de Comercialização por Região, UF e Produto](https://www.bcb.gov.br/estabilidadefinanceira/reportmicrrural/?path=conteudo%2FMDCR%2FReports%2FqvcComercializacaoRegiaoUfProduto.rdl)\
 
 #### Baixar Apresentação
 <div class="centered">
